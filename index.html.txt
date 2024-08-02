@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leg Room Podcast</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="Leg Room Podcast Logo" class="logo">
+    </header>
+    <main>
+        <section class="latest-episode">
+            <h2>Latest Episode</h2>
+            <div class="video-container">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/AaOjUaHdNWA" frameborder="0" allowfullscreen></iframe>
+            </div>
+        </section>
+        <section class="previous-episodes">
+            <h2>Previous Episodes</h2>
+            <div class="gallery">
+                <div class="video-container">
+                    <iframe width="280" height="158" src="https://www.youtube.com/embed/pMVyAlFMQC0" frameborder="0" allowfullscreen></iframe>
+                    <p>Episode 1 - Helicopter on Mars</p>
+                </div>
+                <div class="video-container">
+                    <iframe width="280" height="158" src="https://www.youtube.com/embed/9TwWHkqr3rE" frameborder="0" allowfullscreen></iframe>
+                    <p>Episode 2 - The Beerlympics</p>
+                </div>
+                <div class="video-container">
+                    <iframe width="280" height="158" src="https://www.youtube.com/embed/ai3yUQOyISk" frameborder="0" allowfullscreen></iframe>
+                    <p>Episode 3 - DaBaby vs. Jojo Siwa</p>
+                </div>
+                <div class="video-container">
+                    <iframe width="280" height="158" src="https://www.youtube.com/embed/J219l1wf35U" frameborder="0" allowfullscreen></iframe>
+                    <p>Episode 4 - catcast</p>
+                </div>
+                <div class="video-container">
+                    <iframe width="280" height="158" src="https://www.youtube.com/embed/SCBshPElZHs" frameborder="0" allowfullscreen></iframe>
+                    <p>Episode 5 - Swamp Creatures</p>
+                </div>
+            </div>
+        </section>
+    </main>
+</body>
+</html>
