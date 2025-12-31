@@ -68,7 +68,6 @@ async function fetchLatestVideoRSS() {
             <div class="episode-info">
                 <h3>Season 2</h3>
                 <p class="episode-date">Season 2 of the Legroom Podcast</p>
-                <p class="error-message">Note: Showing Season 2 playlist. Latest episode may not have loaded automatically.</p>
             </div>
         `;
     }
